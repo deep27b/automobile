@@ -10,12 +10,12 @@ const Home = () => {
             </div>
             <div className="flex flex-col justify-center ml-8 h-full w-1/2 ">
                 <h2 className="text-4xl sm:text-7xl font-bold text-black"> We Service , Maintain And Safety-Check for Cars, UTES and 4WD </h2>
-                <p className="text-gray-500 py-4 max-w-md">We offer quality auto repairs backed by years of experience!</p>
+                <p className="text-black text-2xl py-4 max-w-md font-bold">We offer quality auto repairs backed by years of experience!</p>
                 
 
                 <div>
-                    <button className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500"> call US</button>
-                    <span>0470218747</span>
+                    <button className="text-white text-2xl font-bold w-fit px-6 py-3 my-2 ml-12 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500"> Contact Us</button>
+                    <span className="ml-16 font-bold text-2xl text-black">0401464001</span>
                 </div>
             </div>
         </div>
